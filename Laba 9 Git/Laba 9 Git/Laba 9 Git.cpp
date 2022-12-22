@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//Программа является учебной
 int main()
 {
 	student test;
