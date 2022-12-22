@@ -8,7 +8,7 @@ int main()
 	student test;
 
 	cout << test.GetSum();
-
+	cout << test.GetDif();
 
 	return 0;
 }
