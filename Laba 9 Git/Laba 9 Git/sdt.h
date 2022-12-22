@@ -7,6 +7,7 @@ class student
 {
 public:
 	float GetSum();
+	float GetDif();
 };
 
 float student::GetSum()
@@ -17,6 +18,15 @@ float student::GetSum()
 	cin >> a >> b;
 
 	return a + b;
+}
+
+float student::GetDif()
+{
+	float c, d;
+	cout << "\nEnter digits C,D; " << endl;
+	cin >> c >> d;
+
+	return c - d;
 }
 
 
