@@ -4,6 +4,7 @@
 using namespace std;
 
 //Программа является учебной
+//Another test
 int main()
 {
 	student test;
