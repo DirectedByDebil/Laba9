@@ -5,6 +5,7 @@ using namespace std;
 
 //Программа является учебной
 //Another test
+//Here comes error
 int main()
 {
 	student test;
