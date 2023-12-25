@@ -1,0 +1,10 @@
+C:\Users\Пчола\source\repos\Visual9\Visual9\bin\Debug\Visual9.exe.config
+C:\Users\Пчола\source\repos\Visual9\Visual9\bin\Debug\Visual9.exe
+C:\Users\Пчола\source\repos\Visual9\Visual9\bin\Debug\Visual9.pdb
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.csproj.AssemblyReference.cache
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.Form1.resources
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.Properties.Resources.resources
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.csproj.GenerateResource.cache
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.csproj.CoreCompileInputs.cache
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.exe
+C:\Users\Пчола\source\repos\Visual9\Visual9\obj\Debug\Visual9.pdb
